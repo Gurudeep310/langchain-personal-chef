@@ -40,3 +40,5 @@ The agent analyzes ingredients provided by the user and recommends recipes that 
 <video src="Demo.mov" width="100%" controls></video>
 
 This project demonstrates how to build a production-style AI agent that combines LLM reasoning with external tools to solve real-world tasks.
+
+[<video src="https://raw.githubusercontent.com/Gurudeep310/langchain-personal-chef/dev/Demo.mp4" width="100%" controls></video>](https://github.com/user-attachments/assets/6aba2d32-937c-4f09-9f5f-0db061e2b1a3)
