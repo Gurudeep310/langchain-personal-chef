@@ -37,4 +37,6 @@ The agent analyzes ingredients provided by the user and recommends recipes that 
 * Step-by-step instructions
 * Optional variations
 
+<video src="Demo.mov" width="100%" controls></video>
+
 This project demonstrates how to build a production-style AI agent that combines LLM reasoning with external tools to solve real-world tasks.
